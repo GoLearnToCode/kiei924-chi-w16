@@ -32,9 +32,15 @@ Students must build a project of their choosing throughout the quarter as their 
 ### Week 1
 
 * Get your Development Environment set up
-* Learn to use the Github app to share code with others
+ * Learn to use the Github app to share code with others
+ * Create three sample repositories inside your Github account
+ * Use Atom to write code
+
 * Understand the Building Block #1 of the web: HTML
-* Start the first version of your own website
+  * Elements
+  * Attributes
+  * Start the first version of your own website
+  
 
 ### Week 2
 
@@ -44,19 +50,16 @@ Students must build a project of their choosing throughout the quarter as their 
   * Margin
   * Padding
   * Classes
+  
 * Intro to the Bootstrap CSS Framework
+  * Using predefined CSS classes
+  * Large components
+  * Responsive grid system
 
 ### Week 3
 
-* Content Layout
-  * Navigation
-  * Headers and Footers
-  * Sidebars
-* Understand screen resolutions across devices and platforms
-* Learn the role of and the need for CSS resets and frameworks
-* Bootstrap
-  * Grid system
-  * Common elements
+* In-Class Challenge
+
 * Introduction to Javascript
   
 ### Week 4
