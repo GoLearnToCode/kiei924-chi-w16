@@ -1,8 +1,8 @@
 # KIEI-924 Introduction to Software Development
-Winter Quarter 2016
+**Winter Quarter 2016**
 
 ## Course Description
-*Instructor: Jeffrey Cohen j-cohen@kellogg.northwestern.edu*
+**Instructor:** Jeffrey Cohen j-cohen@kellogg.northwestern.edu
 
 This course is geared for entrepreneurs and non-programmers who want to learn the essentials of building web applications. Students will build a small website in steps, gaining skills in software analysis and experience with tools for building modern web applications.
 
