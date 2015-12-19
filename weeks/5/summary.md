@@ -1,3 +1,4 @@
-- SQL!
-- The reason we want to learn SQL, how businesses use it, the landscape
-- Basic queries - SELECT, WHERE, JOIN
+## Goals for This Week
+
+* Introduction to SQL
+* What's Next
