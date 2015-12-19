@@ -2,19 +2,20 @@
 Winter Quarter 2016
 
 ## Course Description
-Instructor: Jeffrey Cohen
+*Instructor: Jeffrey Cohen j-cohen@kellogg.northwestern.edu*
 
 This course is geared for entrepreneurs and non-programmers who want to learn the essentials of building web applications. Students will build a small website in steps, gaining skills in software analysis and experience with tools for building modern web applications.
 
 This course fulfills the prerequisite for KIEI-925. 
 
-### Learning Goals
+## Learning Goals
 1. Build a custom website with modern HTML, CSS, and Javascript code
 2. Understand key concepts and patterns in modern web development
 3. Use cloud-based tools and resources to build and deploy a website
 
 ### Student Expectations
-1.Students should expect to spend 6-8 hours a week on assignments. Students are highly encouraged to work with a partner to help each other on their homework.
+
+1. Students should expect to spend 6-8 hours a week on assignments. Students are highly encouraged to work with a partner to help each other on their homework.
 2. Attendance at lectures is paramount, and participation is a significant part of the final grade.
 
 ### Computer Requirements
@@ -23,9 +24,9 @@ Students must own or have access to a modern computer that is capable of running
 ### ￼￼Assignments and Grading
 Students must build a project of their choosing throughout the quarter as their final project. Students are encouraged to work in pairs for all assignments including the final project, but each student must turn in their own project code that they developed themselves.
 
-✦ Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
-✦ The Final Project is worth 30%. 
-✦ Class participation is worth 10%.
+* Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
+* The Final Project is worth 30%. 
+* Class participation is worth 10%.
 
 # Course Outline
 
