@@ -15,7 +15,7 @@ This course fulfills the prerequisite for KIEI-925. 
 
 ### Student Expectations
 
-1. Students should expect to spend 6-8 hours a week on assignments. 
+1. Students should expect to spend 6-8 hours a week on assignments.
 2. Students are highly encouraged to work with a partner to help each other on their homework.
 2. Attendance at lectures is paramount, and participation is a significant part of the final grade.
 
@@ -26,7 +26,7 @@ Students must own or have access to a modern computer that is capable of running
 Students must build a project of their choosing throughout the quarter as their final project. Students are encouraged to work in pairs for all assignments including the final project, but each student must turn in their own project code that they developed themselves.
 
 * Homework is worth 60% of your grade, based on 3 assignments worth 20% each.
-* The Final Project is worth 30%. **The final project is due Wendesday, February 10.**
+* The Final Project is worth 30%. **The final project is due Wednesday, February 10.**
 * Class participation is worth 10%.
 
 # Course Outline
@@ -42,7 +42,7 @@ Students must build a project of their choosing throughout the quarter as their 
   * Attributes
   * Use The Source, Luke
   * The Web Inspector
-  
+
 
 ### Week 2
 
@@ -66,7 +66,7 @@ Students must build a project of their choosing throughout the quarter as their 
   * Alerts
   * Variables
   * Objects
-  
+
 ### Week 4
 
 1. Javascript, Part 2

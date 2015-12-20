@@ -10,13 +10,13 @@
   * Your website should be available via the public Internet using a custom domain name (domain name should be listed in your project's README file) (2 points)
   * You should embed script from a third-party by researching their developer guidelines and making use of their content on your website. Examples are embedding media from YouTube, Vimeo, or Soundcloud, or embedding personal information from Twitter and Facebook. (2 points)
 * A Javascript app (10 points)
-  * A single HTML page and JS file as part of your username.github.io project on Github. This page should be a simple "list" application, where items can be removed from a list. 
+  * A single HTML page and JS file as part of your username.github.io project on Github. This page should be a simple "list" application, where items can be removed from a list.
   * The items on the list should be hard-coded HTML elements on the page.
   * Each item should be able to be removed via a link or button corresponding to the item.
   * Some examples are:
     * To-do list
     * Shopping list
     * Recipes or restaurants to try
-    * Anything else! 
+    * Anything else!
 
 Commit and sync your code to your username.github.io project by 11:59pm on Monday, December 7.

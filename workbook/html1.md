@@ -93,4 +93,3 @@ Here, we use nesting to build a link (`a` tag) with an image instead of text:
 ```html
 <a href="http://golearntocode.com/"><img src="code.jpg"></a>
 ```
-
