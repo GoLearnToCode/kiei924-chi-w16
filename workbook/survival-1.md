@@ -7,11 +7,11 @@ If you want to succeed, you will also need to work differently than you ever hav
 * Class time is for learning the big, important ideas. 
 * Homework time is for learning the details. 
 * DO NOT take notes while I'm talking or coding.  Trust me on this.  Take notes during the lab times instead.
-* When I’m demonstrating something, don’t take notes. Your only job is to focus on what I'm doing so that you can come up with a question.
+* When I’m demonstrating something, your only job is to focus so that you can ask a question.
 * The code that I write in class is always available online for study and review.
 * You are free to jot down extra notes during the labs, during break times, and after class.
-* You *will* need to look up more details online. I will provide some helpful links on the course website, but 
-* there’s a thing now called Google.
+* You *will* need to look up more details online. I will provide some helpful links on the course website, but there’s a thing now called Google.
+* Use the Aha! Board to your advantage, every day.
 
 
 **Consider The Following**
