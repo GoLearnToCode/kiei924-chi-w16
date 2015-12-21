@@ -23,7 +23,7 @@ Hopefully you're already using Chrome as your everyday browser.  If not, go get 
 
 ### Step 2. Download and Install Atom
 
-[Click here to get Atom](http://atom.io). Download the installer and run it.  Start the Atom program on your laptop to make sure it works.  You should see something similar to an empty black screen.
+[Click here to get Atom from atom.io](http://atom.io). Download the installer and run it.  Start the Atom program on your laptop to make sure it works.  You should see something similar to an empty black screen.
 
 Full documentation is [here](https://atom.io/docs) should you ever need it, but you can probably start with our cheat sheet, which will be available the first day of class.
 
