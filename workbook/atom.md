@@ -22,10 +22,12 @@ To see the preferences on a Mac, use `Cmd-,` (or `Atom | Preferences`).  On Wind
 There are lots and lots of settings, and I won't mention all of them, but do be sure to configure the following items.  Some of these might already be set, some might not be.
 
 **Core Settings**
+
 * Turn off "Audio Beep"
 * Turn on "Open Empty Editor on Start"
 
 **Editor Settings**
+
 * Turn on "Auto Indent"
 * Turn off "Auto Indent on Paste"
 * Turn off "Show Indent Guide"
