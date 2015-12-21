@@ -44,7 +44,7 @@ There are lots and lots of settings, and I won't mention all of them, but do be 
 
 Don't try to memorize every possible keyboard shortcut.  Use the menus or mouse to do what you need, but when you find yourself doing the same thing over again, take a moment to learn the keyboard equivalent.
 
-Windows users: use `Ctrl` instead of `Cmd` in the list below, and `Alt` instead of 'Option'.
+Windows users: use `Ctrl` instead of `Cmd` in the list below, and `Alt` instead of `Option`.
 
 A full list of keyboard shortcuts can be found in the `Settings > Keybindings view`, but here are the ones I use in class the most:
 
@@ -56,6 +56,8 @@ A full list of keyboard shortcuts can be found in the `Settings > Keybindings vi
 * `Cmd-Left` takes you to the beginning of the current line.
 * `Cmd-Right` takes you to the end of the current line. Combine with `Shift` to get your mind warped.
 * `Option` plus `left`/`right` moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.
+* `Option` plus `left`/`right` moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.
+* `Cmd-/` is perhaps the most important of all: it instantly _comments out_ a line of code (or _uncomments_ it, if it was already in a commented-out state).
 
 **Mac Users** You may need to turn off the keyboard shortcuts for _Spaces_ in your Mac system preferences so they don't conflict with the ones above.
 
