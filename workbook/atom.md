@@ -18,7 +18,7 @@ However, your mouse is really handy for one thing in particular.  It's a great i
 
 This is arguably the most important part of using Atom: tuning the application to be a little easier to use.  Here I will show you the settings I use, and I suggest you start with these until you feel that you would like to deviate and use something else.
 
-To see the preferences on a Mac, use `Cmd-,` (or `Atom | Preferences`).  On Windows, use `File | Preferences)`.
+To see the preferences on a Mac, use `Cmd-,` (or from the menu bar, `Atom | Preferences`).  On Windows, use `File | Preferences`.
 
 There are lots and lots of settings, and I won't mention all of them, but do be sure to configure the following items.  Some of these might already be set, some might not be.
 
