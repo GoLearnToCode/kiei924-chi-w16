@@ -1,9 +1,10 @@
 # Cheat Sheet: Atom
 
 Atom is a popular code editor that makes the chore of writing computer code a little easier.
+
 Software engineers use a code editor like a professional author uses a word processor. Their proficiency with their editor has a very direct impact on their productivity.  Engineers are therefore highly opinionated and emotional when debating which code editors are the best, which customizations and accessories should be applied, and so on.
 
-Atom works like most code editors but is a bit more beginner-friendly than most, and that's why we're using it in this course.  Please spend three hours writing code with Atom this week.  The return on investment will be worth it.
+Atom is a professional editor, but a bit more beginner-friendly than most, and that's why we're using it in this course.  Please spend three hours writing code with Atom this week.  The return on investment will be worth it.
 
 If you haven't already skimmed the [Getting Started](https://atom.io/docs/v1.3.2/getting-started-atom-basics) guide, you must do that first, and then you can continue reading here.
 
@@ -11,7 +12,7 @@ If you haven't already skimmed the [Getting Started](https://atom.io/docs/v1.3.2
 
 All coding activities are done faster and more efficiently with the keyboard, not the mouse.  If you must reach for the mouse or trackpad to accomplish something, take a second to also learn the keyboard equivalent so that you can avoid it the next time.
 
-Everything you can do with a keyboard you can also get to from a menu somewhere.  So it's a great idea to take a couple minutes and go through each menu one by one: the File menu, the Edit menu, etc.  You don't need to learn everything in them, just read all of the items and start to get familiar with your surroundings.  Try to figure out why the items are grouped they way they are.
+However, your mouse is really handy for one thing in particular.  It's a great idea to take a couple minutes and go through each menu one by one: the File menu, the Edit menu, etc.  You don't need to memorize anything. Just read all of the items and start to get familiar with your surroundings.  Try to figure out why the items are grouped they way they are.
 
 ### Preferences
 
