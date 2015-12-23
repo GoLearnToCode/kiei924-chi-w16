@@ -12,6 +12,10 @@ sidebar:
     label: Discussion
     url: "https://canvas.northwestern.edu/courses/30069/discussion_topics"
     icon: fa-comments
+  - 
+    label: Grades
+    url: "https://canvas.northwestern.edu/courses/30069/gradebook"
+    icon: star-o
     
 
   
