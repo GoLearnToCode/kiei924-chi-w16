@@ -7,6 +7,10 @@ question_board: false
 # Must be an array.  Start with a dash on its own line.
 # Then indent and provide label, url, and fa icon (optional)
 # The default icon is fa-cloud.
-# sidebar:
+sidebar:
+  - 
+    label: Discussion
+    url: "https://canvas.northwestern.edu/courses/30069/discussion_topics"
+    
 
   
