@@ -48,7 +48,7 @@ Windows users: use `Ctrl` instead of `Cmd` in the list below, and `Alt` instead 
 
 A full list of keyboard shortcuts can be found in the `Settings > Keybindings view`, but here are the ones I use in class the most:
 
-* `Cmd-Shift-P` activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  This is a great way to open a file or issue a command.  It has "fuzzy" logic and will intelligently adapt as you type.
+* `Cmd-Shift-P` activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.
 * `Shift` plus `up`/`down`/`left`/`right` selects text as you move the cursor.  Stop using your mouse.  Try all four directions until you get a sense of how it works.
 * `Cmd-Z` for Undo.  I use it all the time.
 * `Cmd-Shift-D` for Duplicate.  Duplicates the line you're currently on. Awesome.
