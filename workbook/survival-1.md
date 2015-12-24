@@ -22,7 +22,7 @@ They have learned how to think. Not how to copy.
 Even if you don't aspire to become a professional developer, you will work for companies that create digital products.
 This course is a great start for you, but you can't learn everything in 5 weeks.  
 
-Knowing all of this, consider the following:
+Knowing all of this, **consider the following**:
 
-You’ll have to keep learning new things after this course ends. What should you try to learn now, so that you are able to learn more on your own?
+__What should you try to learn now, so that you are able to learn more on your own?__
 
