@@ -1,13 +1,13 @@
-This assignment assumes you've already setup your development environment.  If you haven't done that yet, [follow the instructions to install all necessary development tools](/kiei924-chicago/workbook/setup).
+# Due Before Next Class
 
-# Due Next Wednesday Before Class
+NOTE: This assignment assumes you've already setup your development environment.  If you haven't done that yet, [follow the instructions to install all necessary development tools](/kiei924-chicago/workbook/setup).
 
 
 ### [5 Points] Create your own HW1 repository in your GitHub account
 
 1. Download and expand the ZIP file of the following repository: https://github.com/kiei924-chicago/hw1
 2. Use the GitHub App to turn it into a new repository (drag the folder onto the GitHub App) and "Publish" it to your account.
-3. Verify that it's been synced to GitHub by going to https://github.com/{YOUR-ACCOUNT-NAME}/hw1
+3. Verify that it's been synced to GitHub by going to <%= user_github_path('hw1') %>.
 
 ### [5 Points] Modify the `index.html` Page
 1. Open Atom, and use it to open your entire `hw1` folder.
