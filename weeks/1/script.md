@@ -7,7 +7,8 @@
 * Jumpstart
   * Code Rhythm: HTML 101
   * GitHub: Lots of prewritten code
-  * Login to kiei924.com
+  * Login to kiei924.com 
+  * Attendance Word of the Day
  
 **BREAK**
 
