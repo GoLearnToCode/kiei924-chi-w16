@@ -2,9 +2,9 @@
 
 ### [5 Points] Create your own HW2 repository in your GitHub account
 
-1. Download and expand the ZIP file of the following repository: https://github.com/kiei924-chicago/hw2
+1. Download and expand the ZIP file of the following repository: <%= github_url('hw2') %>
 2. Use the GitHub App to turn it into a new repository (drag the folder onto the GitHub App) and "Publish" it to your account.
-3. Verify that it's been synced to your GitHub account online by going to <%= user_github_path('hw2') %>.
+3. Verify that it's been synced to your GitHub account online by going to <%= user_github_url('hw2') %>.
 
 ### [5 Points] Write your own style rules
 1. Open the `index.html` page in your browser.  Notice how lame it looks.
