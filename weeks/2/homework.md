@@ -1,21 +1,28 @@
-# Due Next Thursday by 11:59PM
+# Due Before Next Class
 
-Continue working on your username.github.io project. Create a new index.html page and add visual styles that apply good design principles and that are responsive across a variety of devices and platforms. (You should rename your original index.html, if you want to keep it.)
+### [5 Points] Create your own HW2 repository in your GitHub account
 
-You should:
+1. Download and expand the ZIP file of the following repository: https://github.com/kiei924-chicago/hw2
+2. Use the GitHub App to turn it into a new repository (drag the folder onto the GitHub App) and "Publish" it to your account.
+3. Verify that it's been synced to your GitHub account online by going to <%= user_github_path('hw2') %>.
 
-- Link to the Bootstrap CSS framework in your HEAD tag
-- Utilize the Bootstrap grid system to create a logical separation in your design elements (e.g. header, content, sidebar, footer) on medium-sized (992px wide and up) devices and up
-- Ensure that on small sized devices (768px and up), you can still see content and a sidebar, and that content is not simply stacked
-- Use at least one of Bootstrap's built-in CSS classes to style HTML elements. Examples:
-  - Make a link look like a button
-  - Style a table
-  - Make an image square, rounded, or circle
-- Use at least one other Bootstrap design component
-  - Nav
-  - Navbar
-  - Label
-  - Alert
-  - Etc.
+### [5 Points] Write your own style rules
+1. Open the `index.html` page in your browser.  Notice how lame it looks.
+1. Now a look at `target.png`.  You want to make your page look like that.
+2. Create a new file named `styles.css` and modify `index.html` to link it as a stylesheet.
+1. Write your style rules inside of `styles.css` so that the `index.html` page looks like the target image as closely as you can.  You shouldn't change anything inside of `index.html` except for adding the link to your stylesheet.
 
-Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
+### [10 Points] Use the Bootstrap framework.
+
+5. Open the `index2.html` page in your browser.  Notice how lame it looks.
+1. Now a look at `target2.png`.  You want to make your page look like that.
+2. Modify `index2.html` to link to a CDN-hosted version of the Bootstrap framework. Refresh your browser and see what's changed so far.
+1. Continue modifying the `index2.html` file by inserting any new HTML elements and class attributes you need so that your file looks like the target.
+
+Some hints:
+
+* Link to the Bootstrap CSS framework in your HEAD tag
+* Utilize the Bootstrap grid system to create a logical separation in your design elements (e.g. header, content, sidebar, footer) on medium-sized (992px wide and up) devices and up
+
+Finally, be sure **COMMIT** and then **SYNC** your changes to your account.  Verify by going to your online repository and inspecting the code.  It's a good idea to commit and sync often so you don't lose your work.
+
