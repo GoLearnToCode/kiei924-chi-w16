@@ -47,7 +47,7 @@ A full list of keyboard shortcuts can be found in the `Settings > Keybindings vi
 
 |Key|What It Does|
 |---|------------|
-|Cmd-Shift-P|Activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.|
+|`Cmd-Shift-P`|Activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.|
 |`Shift` plus `up`/`down`/`left`/`right`|Selects text as you move the cursor.  Stop using your mouse.  Try all four directions until you get a sense of how it works.|
 |`Cmd-Z`|Undo.  I use it all the time.|
 `Cmd-Shift-D`|Duplicates the line you're currently on. Awesomesauce.|
