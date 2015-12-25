@@ -14,7 +14,7 @@ All coding activities are done faster and more efficiently with the keyboard, no
 
 However, your mouse is really handy for one thing in particular.  It's a great idea to take a couple minutes and go through each menu one by one: the File menu, the Edit menu, etc.  You don't need to memorize anything. Just read all of the items and start to get familiar with your surroundings.  Try to figure out why the items are grouped they way they are.
 
-### Preferences
+### Settings
 
 This is arguably the most important part of using Atom: tuning the application to be a little easier to use.  Here I will show you the settings I use, and I suggest you start with these until you feel that you would like to deviate and use something else.
 
@@ -44,9 +44,21 @@ There are lots and lots of settings, and I won't mention all of them, but do be 
 
 Don't try to memorize every possible keyboard shortcut.  Use the menus or mouse to do what you need, but when you find yourself doing the same thing over again, take a moment to learn the keyboard equivalent.
 
-Windows users: use `Ctrl` instead of `Cmd` in the list below, and `Alt` instead of `Option`.
+**Windows users: use `Ctrl` instead of `Cmd` in the list below, and `Alt` instead of `Option`.**
 
 A full list of keyboard shortcuts can be found in the `Settings > Keybindings view`, but here are the ones I use in class the most:
+
+
+|Key|What It Does|
+|---|------------|
+|Cmd-Shift-P|Activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.|
+|`Shift` plus `up`/`down`/`left`/`right`|Selects text as you move the cursor.  Stop using your mouse.  Try all four directions until you get a sense of how it works.|
+|`Cmd-Z`|Undo.  I use it all the time.|
+`Cmd-Shift-D`|Duplicates the line you're currently on. Awesomesauce.|
+|`Cmd` plus `up`/`down`/`left`/`right`|Wonderful things.|
+|`Option` plus `left`/`right`| Moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.|
+|`Cmd-/`| Perhaps the most important of all. Instantly _comments out_ a line of code (or _uncomments_ it).
+|`Cmd-]` and `Cmd-[`|Indents the current line or current selection.|
 
 * `Cmd-Shift-P` activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.
 * `Shift` plus `up`/`down`/`left`/`right` selects text as you move the cursor.  Stop using your mouse.  Try all four directions until you get a sense of how it works.
