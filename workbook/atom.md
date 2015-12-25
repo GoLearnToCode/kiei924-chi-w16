@@ -12,15 +12,11 @@ If you haven't already skimmed the [Getting Started](https://atom.io/docs/v1.3.2
 
 All coding activities are done faster and more efficiently with the keyboard, not the mouse.  If you must reach for the mouse or trackpad to accomplish something, take a second to also learn the keyboard equivalent so that you can avoid it the next time.
 
-However, your mouse is really handy for one thing in particular.  It's a great idea to take a couple minutes and go through each menu one by one: the File menu, the Edit menu, etc.  You don't need to memorize anything. Just read all of the items and start to get familiar with your surroundings.  Try to figure out why the items are grouped they way they are.
-
 ### Settings
 
 This is arguably the most important part of using Atom: tuning the application to be a little easier to use.  Here I will show you the settings I use, and I suggest you start with these until you feel that you would like to deviate and use something else.
 
 To see the preferences on a Mac, use `Cmd-,` (or from the menu bar, `Atom | Preferences`).  On Windows, use `File | Preferences`.
-
-There are lots and lots of settings, and I won't mention all of them, but do be sure to configure the following items.  Some of these might already be set, some might not be.
 
 **Core Settings**
 
@@ -59,18 +55,5 @@ A full list of keyboard shortcuts can be found in the `Settings > Keybindings vi
 |`Option` plus `left`/`right`| Moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.|
 |`Cmd-/`| Perhaps the most important of all. Instantly _comments out_ a line of code (or _uncomments_ it).
 |`Cmd-]` and `Cmd-[`|Indents the current line or current selection.|
-
-* `Cmd-Shift-P` activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.
-* `Shift` plus `up`/`down`/`left`/`right` selects text as you move the cursor.  Stop using your mouse.  Try all four directions until you get a sense of how it works.
-* `Cmd-Z` for Undo.  I use it all the time.
-* `Cmd-Shift-D` for Duplicate.  Duplicates the line you're currently on. Awesome.
-* `Cmd-Up` takes you to the top of your document.
-* `Cmd-Left` takes you to the beginning of the current line.
-* `Cmd-Right` takes you to the end of the current line. Combine with `Shift` to get your mind warped.
-* `Option` plus `left`/`right` moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.
-* `Option` plus `left`/`right` moves you one word at a time.  Combine with `Shift` for a psychaedelic experience.
-* `Cmd-/` is perhaps the most important of all: it instantly _comments out_ a line of code (or _uncomments_ it, if it was already in a commented-out state).
-
-**Mac Users** You may need to turn off the keyboard shortcuts for _Spaces_ in your Mac system preferences so they don't conflict with the ones above.
 
 You're off to a great start.  Happy coding!
