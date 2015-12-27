@@ -39,11 +39,9 @@ Sign up for a free GitHub account at [the GitHub website](https://github.com/). 
 
 Next, YOU MUST **enter your university email address into your public profile**. Do this by going to your profile settings and entering it in the "Public Email" section.
 
-**Download and Install the Github App**
+Finally, download the free GitHub app at https://desktop.github.com/ and run the installer.  Run the app and add your GitHub.com credentials so that it knows about your GitHub account.  
 
-Finally, download the free GitHub app at https://desktop.github.com/ and run the installer.  This will make it easier for you to sync files from your laptop to your GitHub.com account automatically. 
-
-Run the app and add your GitHub.com credentials so that it knows about your GitHub account.  Complete instructions can be found here (be sure to select either Mac/Windows as needed): https://help.github.com/desktop/guides/getting-started/
+Complete instructions can be found here (be sure to select either Mac/Windows as needed): https://help.github.com/desktop/guides/getting-started/
 
 ---
 
