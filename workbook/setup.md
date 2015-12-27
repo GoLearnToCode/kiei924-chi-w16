@@ -23,13 +23,13 @@ Hopefully you're already using Chrome as your everyday browser.  If not, go get 
 
 ### Step 2. Download and Install Atom
 
-[Click here to get Atom from atom.io](http://atom.io). Download the installer and run it.  Start the Atom program on your laptop to make sure it works.  You should see something similar to an empty black screen.
+[Click here to get Atom from atom.io](http://atom.io). Download the installer and run it.  Start the Atom program at least once on your laptop just to make sure it works.
 
-Full documentation is [here](https://atom.io/docs) should you ever need it, but you can probably start with our cheat sheet, which will be available the first day of class.
+Full documentation is [here](https://atom.io/docs) should you ever need it, but you can probably wait for our cheat sheet, which will be available the first day of class.
 
 ### Step 3. GitHub.com and the GitHub Desktop App
 
-First, sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
+Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
 
 Once your Github account is created, YOU MUST **enter your Kellogg email address into your public profile**. Do this by going to your profile settings and entering it in the "Public Email" section.
 
