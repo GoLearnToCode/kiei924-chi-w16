@@ -35,9 +35,9 @@ Full documentation is [here](https://atom.io/docs) should you ever need it, but 
 
 ### Step 3. GitHub.com and the GitHub Desktop App
 
-Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
+Sign up for a free GitHub account at [the GitHub website](https://github.com/). You'll be using your GitHub account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
 
-Once your Github account is created, YOU MUST **enter your Kellogg email address into your public profile**. Do this by going to your profile settings and entering it in the "Public Email" section.
+Next, YOU MUST **enter your university email address into your public profile**. Do this by going to your profile settings and entering it in the "Public Email" section.
 
 **Download and Install the Github App**
 
