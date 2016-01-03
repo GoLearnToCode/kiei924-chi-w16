@@ -21,17 +21,17 @@ NOTE: This assignment assumes you've already setup your development environment.
 6. Give the page the same basic structure, including the top `div`, but the rest of the page should contain photos and short descriptions of places you've travelled or wish to travel.  Feel free to be as creative as you want!  Just be sure to keep the same top `div` so that both pages have a similar layout and feel.
 7. On your `travel.html` page, you must use these elements at least once.
 
-* h1
-* p
-* ul
-* li
-* a
-* body
-* html
-* title
-* head
+  * `h1`
+  * `p`
+  * `ul`
+  * `li`
+  * `a`
+  * `body`
+  * `html`
+  * `title`
+  * `head`
 
-7. Finally, be sure **COMMIT** and then **SYNC** your changes to your account.  Verify by going to your online repository and inspecting the code.  It's a good idea to commit and sync often so you don't lose your work.
+8. Finally, be sure **COMMIT** and then **SYNC** your changes to your account.  Verify by going to your online repository and inspecting the code.  It's a good idea to commit and sync often so you don't lose your work.
 
 ### [5 Points] CSS Exploration
 
