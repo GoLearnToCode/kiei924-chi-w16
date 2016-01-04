@@ -12,6 +12,8 @@
 * Publish
 * Commit 
 * Sync
+
+**6:45: Course Site** 
 * Login to kiei924.com 
 * Attendance Word of the Day
 
