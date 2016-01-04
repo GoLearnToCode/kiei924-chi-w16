@@ -1,10 +1,10 @@
-**6:00: Overview**
+**6:00 Overview**
 * Who am I
 * Why this is a great time to be in 924
 * Every company is a technology company
 * Syllabus
 
-**6:20: Jumpstart**
+**6:20 Jumpstart**
 * Code Rhythm: HTML 101
 * Open GitHub App
 * Drag Folder Onto App
@@ -13,7 +13,7 @@
 * Commit 
 * Sync
 
-**6:45: Course Site** 
+**6:45 Course Site** 
 * Login to kiei924.com 
 * Attendance Word of the Day
 
@@ -27,7 +27,7 @@
 * **Challenge**: Publish to GitHub
 * ? Intro to CSS
 
-**8:30**
+**8:30 Wrapper **
 * Amazon: View the Source, Luke
 * Amazon Toaster Price Change Demo
 * Closing Thought: Apollo 13 filter => This class is about ingenuity, not rote memorization
