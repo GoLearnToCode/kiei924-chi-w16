@@ -16,6 +16,10 @@ sidebar:
     label: Grades
     url: "https://canvas.northwestern.edu/courses/30069/gradebook"
     icon: fa-star-o
+  -
+    label: Syllabus
+    url: "https://www.dropbox.com/s/c529lf8rrwg4j0g/KIEI-924-5-71_Winter2016.pdf?preview=KIEI-924-5-71_Winter2016.pdf"
+    icon: fa-gavel
     
 
   
