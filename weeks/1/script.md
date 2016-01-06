@@ -26,7 +26,7 @@
 * **Challenge**: Publish to GitHub
 * ? Intro to CSS
 
-**8:30 Wrapper **
+**8:30 Wrapper**
 * HW1 Preview
 * Amazon: View the Source, Luke
 * Amazon Toaster Price Change Demo
