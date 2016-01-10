@@ -44,7 +44,6 @@ Don't try to memorize every possible keyboard shortcut.  Use the menus or mouse 
 
 A full list of keyboard shortcuts can be found in the `Settings > Keybindings view`, but here are the ones I use in class the most:
 
-
 |Key|What It Does|
 |---|------------|
 |`Cmd-Shift-P`|Activates the Command Palette, which lists every possible command Atom understands, and is a superset of the menu system.  It uses "fuzzy" logic and will intelligently adapt as you type.|
