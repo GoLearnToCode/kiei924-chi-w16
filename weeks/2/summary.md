@@ -1,5 +1,7 @@
 
-1. Advanced HTML: Grouping Constructs
+1. Advanced HTML
+  * Block-level elements
+  * Inline elements
   * `div`
   * `span`
 2. Understand the Building Block #2 of the web: CSS
