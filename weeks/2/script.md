@@ -9,6 +9,8 @@ Challenge: Get week2, follow directions there
 * More about Inspector vs View Source
 * Every Element is a Rectangle!
 
+1. Block vs inline
+2. Grouping with div and span
 1. Understand the Building Block #2 of the web: CSS
   * Colors
   * Borders
@@ -21,4 +23,9 @@ Challenge: Get week2, follow directions there
   * Responsive grid system
 
 EXTRAS
+
+* Google web fonts
+* fontawesome icons
+
+
 
