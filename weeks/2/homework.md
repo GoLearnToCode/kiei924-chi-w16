@@ -12,9 +12,8 @@ The goal is to apply the a few elements of the Bootstrap framework so that you c
 
 **You must**:
 
-* [3 points] Have a header area, sidebar, main content area, and footer.
-* [3 points] Utilize the Bootstrap grid system so that everything appears correctly (i.e. not stacked) on medium-sized (992px wide and up) devices and up
-* [3 points] Ensure that on smaller-sized devices (768px and up), you can still see the main content and a sidebar, and that content is not simply stacked
+* [3 points] Have a header area, main content area with at least two columns, and a footer.  
+* [6 points] Utilize the Bootstrap grid system so that everything appears correctly (i.e. not stacked) on smaller-sized devices (768px and up). You should be able to still see the main content with all columns properly laid out (not stacked).  On "extra small" devices, the content should respond by converting to a single-column, stacked layout.
 * [3 points] Use at least one of Bootstrap's built-in CSS classes to style HTML elements. Examples:
   * Make a link look like a button
   * Style a table so that it looks nicer than the browser default 
