@@ -3,7 +3,6 @@ Challenge: Get week2, follow directions there
 * Do not use IE
 * Send links, not screenshots
 * What are URLs?
-
 * Web Developer Extension
 * kellogg.edu: Turn off all styles
 * More about Inspector vs View Source
@@ -26,6 +25,7 @@ EXTRAS
 
 * Google web fonts
 * fontawesome icons
+* Psuedo selects for link hovering, images, etc
 
 
 
