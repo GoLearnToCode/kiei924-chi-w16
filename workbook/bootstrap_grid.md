@@ -7,9 +7,9 @@ your HTML is expected to follow, in order for your page to appear correctly.
 In this guide, we will cover the most valuable part of the framework, which is the *grid system* for layout out your page
 as a set of rows and columns.
 
-The CSS classes you will need to learn to apply are:
+The CSS classes that are best to start with are:
 
-* `container` or `container-fluid`
+* `container` and `container-fluid`
 * `row`
 * `col-md-1` up through `col-md-12`
 
@@ -58,7 +58,8 @@ Here's is a snippet that will use two rows.
 
 ## Columns
 
-Now the hard part.  Inside each row, you must have at least one column, and you can have up to twelve columns.  
+Now the hard part.  Inside each row, you must have at least one column. You can have up to twelve columns.  
+
 Here's the key: your must specify the width of each column, and the widths **must add up to 12**.
 
 Here's is a one-row, two-column layout, useful for a page with "main section" with a right-hand "sidebar":
@@ -84,3 +85,9 @@ Here's is a one-row, two-column layout, useful for a page with "main section" wi
 ```
 
 The `-md-` part means that columns will appear on "medium"-size screens, and they will automatically "stack" if the screen is any smaller.
+
+## Responsive Design
+
+The `-md-` family of column widths isn't the only option.  To prevent stacking on smaller devices, use `-sm-` and `-xs-` as needed.  
+
+You can even use multiple designations on a column, which is helpful when you want different column widths depending on the device size, like `<div class="col-md-6 col-xs-3">` which would take up half the screen on a medium device but only one-fourth of the screen on an extra-small device.
