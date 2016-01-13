@@ -1,6 +1,6 @@
 # Due Before Next Class
 
-### [5 Points] Create your own HW2 repository in your GitHub account
+### [5 Points] Create your own `hw2` repository in your GitHub account
 
 1. Make a copy of your `hw1` folder.  Call it `hw2`.
 2. Use the GitHub App to turn it into a new repository (drag the folder onto the GitHub App) and "Publish" it to your account.
