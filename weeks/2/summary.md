@@ -1,4 +1,3 @@
-## Goals for This Week
 
 1. Understand the Building Block #2 of the web: CSS
   * Colors
