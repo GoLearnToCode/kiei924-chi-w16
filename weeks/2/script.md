@@ -8,14 +8,14 @@ Challenge: Get week2, follow directions there
 * More about Inspector vs View Source
 * Every Element is a Rectangle!
 
-1. Block vs inline
-2. Grouping with div and span
 1. Understand the Building Block #2 of the web: CSS
   * Colors
   * Borders
   * Margin
   * Padding
   * Classes
+1. HTML: Block vs inline
+2. HTML: Grouping with div and span
 2. Intro to the Bootstrap CSS Framework
   * Using predefined CSS classes
   * Large components
