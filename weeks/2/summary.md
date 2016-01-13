@@ -1,5 +1,8 @@
 
-1. Understand the Building Block #2 of the web: CSS
+1. Advanced HTML: Grouping Constructs
+  * `div`
+  * `span`
+2. Understand the Building Block #2 of the web: CSS
   * Colors
   * Borders
   * Margin
