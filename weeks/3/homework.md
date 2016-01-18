@@ -3,6 +3,7 @@
 1. Download the ZIP file of https://github.com/kiei924-chicago/weather and unzip it. The folder you end up with is probably named `weather-master` or something similar. 
 2. Rename the folder to simply `weather`.
 3. Run the app by opening the `index.html` file in your browser.
+4. Publish the app so that you have your own `weather` repository in your GitHub account.
 
 Now, inside the app, you should find two files:
 
@@ -16,5 +17,5 @@ Your job is to write more code in `weather.js` so that clicking a button on the 
 
 While not required, feel free to be add more content and visual appeal to the app.
 
-**COMITT** and **SYNC** your code to your Github early and often.
+**COMMIT** and **SYNC** your code to your Github early and often.
 
