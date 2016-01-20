@@ -1,4 +1,12 @@
-## Goals for This Week
+**Opening Challenge: Matching Game**
+
+Start by downloading the ZIP file of [the repository for week 3](https://github.com/kiei924-chicago/week3).
+
+Open the entire folder in Atom as usual, and then open the `index.html` file in Chrome.  
+
+Can you match sections of code in `index.html` to what you see in your browser? (Hint: skip the `<script>` lines for now).
+
+Here's what we're going to cover this week.
 
 1. More HTML/CSS
   * Web fonts
@@ -6,6 +14,7 @@
   * HTML Entities
   * Bootstrap Review: Grid System
   * CSS Review: Selectors
+  * HTML Element Nesting
 
 2. Static Website Hosting
 
@@ -17,4 +26,3 @@
   * Arrays
   * Objects
   
-3. Extras: Firefox, Jukebox
