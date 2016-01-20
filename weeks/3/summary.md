@@ -19,7 +19,7 @@ Here's what we're going to cover this week.
 2. Introduction to Javascript
   * The Web Console
   * Chrome Extension: [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-  * Alerts
+  * Alerts, Prompts, and Confirmations (`alert()`, `prompt()`, and `confirm()`)
   * Variables
   * Arrays
   * Objects
