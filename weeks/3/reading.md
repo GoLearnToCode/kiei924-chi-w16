@@ -1,1 +1,6 @@
 - [Week 3 Survival Guide](https://www.dropbox.com/s/qsmaobz59db6km0/KIEI924SurvivalWeek3.pdf?dl=0)
+- [GitHub Pages: Free Website Hosting](https://pages.github.com/)
+- [Browser Market Share](http://www.w3counter.com/globalstats.php)
+- [BuiltWith](http://builtwith.com/)
+- [CSS ZenGarden](http://www.csszengarden.com/)
+- [Global Internet Attack Map](http://map.norsecorp.com/)
