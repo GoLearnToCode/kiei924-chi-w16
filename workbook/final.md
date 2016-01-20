@@ -1,6 +1,6 @@
-# KIEI-924 Fall 2015 Final Project
+# KIEI-924 Final Project
 
-### Due Date: Monday, December 7
+### Due Date: Wednesday, February 17, 12:00pm
 
 **Core Requirements (30 points total)**
 
