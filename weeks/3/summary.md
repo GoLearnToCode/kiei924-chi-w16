@@ -4,7 +4,8 @@
   * Web fonts
   * Icon fonts
   * HTML Entities
-  * Bootstrap Review
+  * Bootstrap Review: Grid System
+  * CSS Review: Selectors
 
 2. Static Website Hosting
 
