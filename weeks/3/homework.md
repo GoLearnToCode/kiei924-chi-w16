@@ -1,4 +1,4 @@
-# Due Before Next Class
+# Due Date Extended!  Now Due Wednesday, Feb 3
 
 1. Download the ZIP file of https://github.com/kiei924-chicago/weather and unzip it. The folder you end up with is probably named `weather-master` or something similar. 
 2. Rename the folder to simply `weather`.
