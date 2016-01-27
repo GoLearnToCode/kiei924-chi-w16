@@ -1,1 +1,1 @@
-* [Final Project Requirements](http://golearntocode.com/kiei924-fall15/workbook/final)
+* [Final Project Requirements](http://golearntocode.com/kiei924-chicago/workbook/final)
