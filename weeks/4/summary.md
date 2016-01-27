@@ -1,9 +1,10 @@
-## Goals for This Week
+1. Start by downloading the ZIP file of [the repository for week 4](https://github.com/kiei924-chicago/week4).
+1. Open the entire folder in Atom as usual, and then open the `sandbox.html` file in Chrome.  
 
-1. Javascript, Part 2
-  * Event handling
-  * Element hijacking
-2. Javascript, Part 3
-  * Live DOM Manipulation
-  * Changing CSS classes of elements
+
+**Javascript, Part 2**
+
+* Event handling
+* Live DOM Manipulation
+* Evil Things
 
