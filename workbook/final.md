@@ -1,6 +1,6 @@
 # KIEI-924 Final Project
 
-### Due Date: Wednesday, February 17, 12:00pm
+### Due Date: Wednesday, February 10, 12:00pm
 
 **Requirements (30 points total)**
 
